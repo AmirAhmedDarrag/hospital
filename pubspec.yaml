@@ -78,3 +78,33 @@ flutter:
 
   uses-material-design: true
 
+  # Assets ##########################################################################
+  assets:
+    - assets/images/
+    - assets/json/
+
+  # Fonts ##########################################################################
+  fonts:
+    - family: Avenir_Black
+      fonts:
+        - asset: assets/fonts/avenir_black.ttf
+
+    - family: Lato_Bold
+      fonts:
+        - asset: assets/fonts/lato_bold.ttf
+
+    - family: Lato_Regular
+      fonts:
+        - asset: assets/fonts/lato_regular.ttf
+
+    - family: Lato_Medium
+      fonts:
+        - asset: assets/fonts/lato_medium.ttf
+
+    - family: Lucida_Bold
+      fonts:
+        - asset: assets/fonts/lucida_grande_bold.ttf
+
+    - family: Lucida_Regular
+      fonts:
+        - asset: assets/fonts/lucida_grande_regular.ttf
